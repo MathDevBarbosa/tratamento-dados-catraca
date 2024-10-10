@@ -11,7 +11,7 @@ Este projeto se dedica ao tratamento de dados privados, com o objetivo de contab
 -> Integração com Sistemas Corporativos: Há uma integração com o Outlook, utilizando o POWER AUTOMATE para realizar o envio dos e-mail de forma automática sempre que o script rodar.
 
 ### Tecnologias Utilizadas
--> Linguagem de Programação: Python (Pandas)
+-> Linguagem de Programação: Python (Pandas, PyInstaller)
 
 
 -> Ferramentas: Power Automate (Cloud)
